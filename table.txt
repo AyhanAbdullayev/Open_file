@@ -1,0 +1,2 @@
+Function name   |Worked Time|Arguments|Keyword Arguments|Result
+calculation     | 2024-07-29|  3,6,-   |                 |-3
