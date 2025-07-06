@@ -1,10 +1,4 @@
-Function name   |Worked Time|Arguments|Operation|Result
-calculation     | 2024-07-29|  3,4,*  |12
-calculation     | 2024-07-29|  3,*,4  |12
-calculation     | 2024-07-29|  3,*,4  |12
-calculation     | 2024-07-29|  3,*,4  |12
-calculation     | 2024-07-29|  *,4     3  |None
-calculation     | 2024-07-29|  *,4     3  |12
-calculation     | 2024-07-29|  *,4     3  |3
-calculation     | 2024-07-29|  *,4     3  |3
-calculation     | 2024-07-29|  *,4     3  |3
+sum             | 2025-07-06|  10,1   |                 |11
+diff            | 2025-07-06|  10,1   |                 |9
+multiple        | 2025-07-06|  10,1   |                 |10
+divide          | 2025-07-06|  10,1   |                 |10.0

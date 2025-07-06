@@ -1,6 +1,7 @@
 from datetime import date 
 from os.path import exists
 
+
 if not exists("table.txt"):
     with open("table.txt","w") as f:
         f.write("Function name   |Worked Time|Arguments|Keyword Arguments|Result\n")
@@ -27,10 +28,21 @@ def sum(a,b):
 
 @calculation
 
-
 def divide(a,b):
     return a/b
 
+@calculation
+
+def diff(a,b):
+    return a-b
+
+@calculation
+
+def multiple(a,b):
+    return a*b
+
 
 sum(10,1)
-divide(a=4,b=3)
+diff(10,1)
+multiple(10,1)
+divide(10,1)
