@@ -1,2 +1,10 @@
-Function name   |Worked Time|Arguments|Keyword Arguments|Result
-calculation     | 2024-07-29|  3,6,-   |                 |-3
+Function name   |Worked Time|Arguments|Operation|Result
+calculation     | 2024-07-29|  3,4,*  |12
+calculation     | 2024-07-29|  3,*,4  |12
+calculation     | 2024-07-29|  3,*,4  |12
+calculation     | 2024-07-29|  3,*,4  |12
+calculation     | 2024-07-29|  *,4     3  |None
+calculation     | 2024-07-29|  *,4     3  |12
+calculation     | 2024-07-29|  *,4     3  |3
+calculation     | 2024-07-29|  *,4     3  |3
+calculation     | 2024-07-29|  *,4     3  |3
